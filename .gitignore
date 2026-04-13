@@ -1,0 +1,5 @@
+node_modules/
+insurance-backend/node_modules/
+insurance-backend/uploads/
+.env
+*.log
